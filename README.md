@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritvikmathur1999" alt="ritvikmathur1999" /></a> </p>
 
-- 💬 Ask me about **React, AWS, Cloud Deployment and Migration Across Multiple Platforms, DevOps, Serverless Architecture**
+- 💬 Ask me about **Cloud Deployment and Migration Across Multiple Platforms, DevOps, Serverless Architecture, Linux, React, JavaScript, Python, Node.js, MongoDB, MySQL**
 
 - 📫 How to reach me **ritvikmathur1999@gmail.com**
 
